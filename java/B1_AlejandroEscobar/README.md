@@ -1,0 +1,1 @@
+Proyecto creado con la finalidad de aprender conceptos de OOP.
